@@ -6,11 +6,7 @@ I love front-end and technology. Work experience of 2 years. I like to participa
 
 ### **Social profile page:**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
-
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MetaingCoder)
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
