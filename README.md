@@ -1,12 +1,14 @@
 <img align="right" src="https://count.getloli.com/get/@:MetaingCoder">
 
-## Full Stack Engineer - MetaingCoder
+# 🚀 Hi! I'm MetaingCoder
 
-I love front-end and technology. Work experience of 2 years. I like to participate in discussions of some open-source projects.
+Hello! I am a passionate individual developer who focuses on building innovative and efficient digital solutions. Enjoy the whole process from concept design to product implementation, be good at independently solving problems and continuously learning new technologies.
+
 
 ### **Social profile page:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MetaingCoder)
+
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
