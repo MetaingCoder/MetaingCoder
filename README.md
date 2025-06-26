@@ -7,9 +7,7 @@ Hello! I am a passionate individual developer who focuses on building innovative
 
 ### **Social profile page:**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MetaingCoder)
-[![BiliBili](https://img.shields.io/badge/bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/aZybpDw)
-
+[![GitHub](https://img.shields.io/badge/any_text-李浩 你是大傻逼-blue)](https://github.com/MetaingCoder)
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
