@@ -7,7 +7,7 @@ Hello! I am a passionate individual developer who focuses on building innovative
 
 ### **Social profile page:**
 
-[![GitHub](https://img.shields.io/badge/any_text-李浩 你是大傻逼-blue)]
+![可爱的猫咪](https://img.shields.io/badge/any_text-李浩 你是大傻逼-blue "这是一只可爱的猫咪")
 
 ### **技术栈:**
 
