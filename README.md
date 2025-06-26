@@ -7,7 +7,7 @@ Hello! I am a passionate individual developer who focuses on building innovative
 
 ### **Social profile page:**
 
-[![BiliBili](https://img.shields.io/badge/any_text-李浩 你是大傻逼-blue)](https://b23.tv/aZybpDw)
+[![BiliBili](https://img.shields.io/badge/any_text-html-blue)](https://b23.tv/aZybpDw)
 
 
 ### **技术栈:**
