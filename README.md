@@ -5,7 +5,7 @@
 Hello! I am a passionate individual developer who focuses on building innovative and efficient digital solutions. Enjoy the whole process from concept design to product implementation, be good at independently solving problems and continuously learning new technologies.
 
 
-### **Technology stack:**
+### **Areas of expertise:**
 
 [![front](https://img.shields.io/badge/WEB5-HTML-blue)]
 [![front](https://img.shields.io/badge/WEB5-PHP-blue)]
@@ -15,7 +15,7 @@ Hello! I am a passionate individual developer who focuses on building innovative
 
 
 
-### 开源项目
+### GitHub activity
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder)](https://github.com/anuraghazra/github-readme-stats)
 
