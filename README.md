@@ -41,4 +41,5 @@ Hello! I am a passionate individual developer who focuses on building innovative
 [![E-Mail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://b23.tv/aZybpDw)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MetaingCoder)
 [![BiliBili](https://img.shields.io/badge/bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/aZybpDw)
-[![BiliBili](https://img.shields.io/badge/bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/aZybpDw)
+[![Alipay](https://img.shields.io/badge/alipay-1677FF?style=for-the-badge&logo=alipay&logoColor=white)](https://b23.tv/aZybpDw)
+
