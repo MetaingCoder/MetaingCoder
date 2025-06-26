@@ -35,3 +35,9 @@ Hello! I am a passionate individual developer who focuses on building innovative
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&layout=compact&langs_count=6)
+
+### link
+### **Social profile page:**
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MetaingCoder)
+[![BiliBili](https://img.shields.io/badge/bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/aZybpDw)
