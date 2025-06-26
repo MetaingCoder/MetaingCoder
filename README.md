@@ -7,7 +7,9 @@ Hello! I am a passionate individual developer who focuses on building innovative
 
 ### **Social profile page:**
 
-[![HTML](https://img.shields.io/badge/any_text-html-blue)]
+[![front](https://img.shields.io/badge/Web-HTML-blue)]
+[![front](https://img.shields.io/badge/Web-PHP-blue)]
+[![front](https://img.shields.io/badge/Web-JS-blue)]
 
 ### **技术栈:**
 
