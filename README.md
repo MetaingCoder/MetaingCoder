@@ -16,6 +16,7 @@ Hello! I am a passionate individual developer who focuses on building innovative
 
 
 ### GitHub activity
+![GitHub Snake Animation](https://raw.githubusercontent.com/MetaingCoder/MetaingCoder/output/snake.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder)](https://github.com/anuraghazra/github-readme-stats)
 
