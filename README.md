@@ -17,8 +17,7 @@ Hello! I am a passionate individual developer who focuses on building innovative
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github 活跃度
 
