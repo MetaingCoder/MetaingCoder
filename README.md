@@ -2,6 +2,11 @@
 
 # 🚀 Hi! I'm MetaingCoder
 
+
+
+Hello! I am a passionate individual developer who focuses on building innovative and efficient digital solutions. Enjoy the whole process from concept design to product implementation, be good at independently solving problems and continuously learning new technologies.
+
+### GitHub activity
 <!-- 放置贪吃蛇游戏 -->
 <picture>
 <!-- 根据主题颜色来决定用亮的还是黑的 -->
@@ -10,9 +15,7 @@
   <img alt="github contribution grid snake" src="https://github.com/MetaingCoder/MetaingCoder/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-Hello! I am a passionate individual developer who focuses on building innovative and efficient digital solutions. Enjoy the whole process from concept design to product implementation, be good at independently solving problems and continuously learning new technologies.
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **Areas of expertise:**
 
