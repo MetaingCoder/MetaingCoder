@@ -6,7 +6,7 @@
 
 🫡Hello! I am a passionate individual developer who focuses on building innovative and efficient digital solutions. Enjoy the whole process from concept design to product implementation, be good at independently solving problems and continuously learning new technologies.
 
-### GitHub activity
+### **GitHub activity:**
 <!-- 放置贪吃蛇游戏 -->
 <picture>
 <!-- 根据主题颜色来决定用亮的还是黑的 -->
