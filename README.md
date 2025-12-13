@@ -2,10 +2,12 @@
 
 # 🙌 Hi! I'm MetaingCoder
 
-🫡 Hello! I'm a passionate Frontend & Backend Developer, building innovative web apps and efficient digital solutions.  
-I enjoy the entire process from concept design to product implementation, love independently solving problems, and continuously learning new technologies.
+🫡 Hey! I'm a Fullstack Developer who loves turning ideas into real web and mobile apps.  
+I enjoy working across the stack—from crafting smooth frontend interfaces with Vue.js/React to building robust backends with Node.js/Express or Django.  
+I’m also exploring mobile development with Flutter and native Android/iOS, and managing databases with MySQL and MongoDB.
 
-💡 **“Keep learning, keep building.”**
+💡 Problem-solving and learning new technologies are what keep me excited every day.  
+**“Keep learning, keep building.”**
 
 ---
 
