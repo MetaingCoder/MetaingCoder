@@ -22,6 +22,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=MetaingCoder&theme=xcode" /> </div>"
 
 
 ### **Links**
