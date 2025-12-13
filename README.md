@@ -18,9 +18,10 @@
 
 
 ### **Links**
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:becompiles@gmail.com)
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nevryel)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:becompiles@gmail.com)
 [![BiliBili](https://img.shields.io/badge/BiliBili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/aZybpDw)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@becompile?si=VZ9nsGNSniY4bHxj)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/becompiles)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/becompiles)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/becompile?igsh=MWxmZ3ZwajJyemIwbg==)
