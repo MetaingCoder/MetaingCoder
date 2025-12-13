@@ -6,7 +6,6 @@
 I enjoy working across the stack—from crafting smooth frontend interfaces with Vue.js/React to building robust backends with Node.js/Express or Django.  
 I’m also exploring mobile development with Flutter and native Android/iOS, and managing databases with MySQL and MongoDB.
 
-💡 Problem-solving and learning new technologies are what keep me excited every day.  
 **“Keep learning, keep building.”**
 
 ---
