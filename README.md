@@ -28,7 +28,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nevryel)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:becompiles@gmail.com)
-[![BiliBili](https://img.shields.io/badge/BiliBili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/aZybpDw)
+[![BiliBili](https://img.shields.io/badge/BiliBili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546965648345431)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@becompile?si=VZ9nsGNSniY4bHxj)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/becompiles)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/becompile?igsh=MWxmZ3ZwajJyemIwbg==)
