@@ -2,35 +2,34 @@
 
 # 🙌 Hi! I'm MetaingCoder
 
-🫡 Hello! I'm a passionate **Frontend & Backend Developer**, building innovative web apps and efficient digital solutions.  
+🫡 Hello! I'm a passionate Frontend & Backend Developer, building innovative web apps and efficient digital solutions.  
 I enjoy the entire process from concept design to product implementation, love independently solving problems, and continuously learning new technologies.
 
 💡 **“Keep learning, keep building.”**
 
 ---
 
-## 🌱 Currently Learning
-- TypeScript & Advanced JavaScript Patterns
-- Vue 3 Composition API & Nuxt.js
-- Node.js Microservices & GraphQL
-- Docker & Kubernetes Basics
+### **GitHub Activity**
+<!-- 贪吃蛇贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MetaingCoder/MetaingCoder/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MetaingCoder/MetaingCoder/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://github.com/MetaingCoder/MetaingCoder/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-## 💻 Tech Stack
+### **💻 Tech Stack**
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ---
 
-## 📫 Contact / Links
+### **📫 Contact / Links**
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nevryel)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:becompiles@gmail.com)
 [![BiliBili](https://img.shields.io/badge/BiliBili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546965648345431)
@@ -40,31 +39,6 @@ I enjoy the entire process from concept design to product implementation, love i
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  ![MetaingCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder&show_icons=true&theme=tokyonight)
-  <br/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&layout=compact&theme=tokyonight)
-</p>
-
----
-
-## 🚀 Featured Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| **Web Dashboard** | Dynamic dashboard for monitoring web app stats, built with Vue & Node.js | [GitHub](https://github.com/MetaingCoder/web-dashboard) |
-| **Portfolio Site** | Personal portfolio site to showcase projects & skills | [GitHub](https://github.com/MetaingCoder/portfolio) |
-| **Task Manager API** | RESTful API for task management with Node.js & MySQL | [GitHub](https://github.com/MetaingCoder/task-manager-api) |
-
----
-
-## 🎯 Hobbies & Interests
-- Open Source Contribution  
-- Coding Challenges & Algorithm Practice  
-- Blogging about Web Development  
-- Exploring New Tech & Tools  
-
----
-
-## 💬 Quote
-> “Code is like poetry, write it beautifully and it speaks for itself.”
+### **📊 GitHub Stats**
+![MetaingCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&layout=compact&theme=tokyonight)
