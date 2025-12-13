@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:MetaingCoder">
 
-# 🙌 Hi! I'm MetaingCoder
+### 🙌 Hi! I'm MetaingCoder
 
 🫡 Hello! I'm a passionate Frontend & Backend Developer, building innovative web apps and efficient digital solutions.  
 I enjoy the entire process from concept design to product implementation, love independently solving problems, and continuously learning new technologies.
@@ -19,7 +19,7 @@ I enjoy the entire process from concept design to product implementation, love i
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -50,5 +50,18 @@ I enjoy the entire process from concept design to product implementation, love i
 ---
 
 ### **📊 GitHub Stats**
-![MetaingCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <!-- 总览贡献统计 -->
+  ![MetaingCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+  <br/>
+  <!-- 语言占比 -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&layout=compact&theme=tokyonight)
+  <br/>
+  <!-- 其他统计徽章 -->
+  [![GitHub stars](https://img.shields.io/github/stars/MetaingCoder?style=flat&logo=github&logoColor=white)](https://github.com/MetaingCoder?tab=stars)
+  [![GitHub forks](https://img.shields.io/github/forks/MetaingCoder?style=flat&logo=github&logoColor=white)](https://github.com/MetaingCoder/fork)
+  [![GitHub issues](https://img.shields.io/github/issues/MetaingCoder?style=flat&logo=github&logoColor=white)](https://github.com/MetaingCoder/issues)
+  [![GitHub pull requests](https://img.shields.io/github/issues-pr/MetaingCoder?style=flat&logo=github&logoColor=white)](https://github.com/MetaingCoder/pulls)
+  [![GitHub followers](https://img.shields.io/github/followers/MetaingCoder?style=flat&logo=github&logoColor=white)](https://github.com/MetaingCoder)
+</p>
