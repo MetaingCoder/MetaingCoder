@@ -40,10 +40,17 @@ I enjoy the entire process from concept design to product implementation, love i
 
 ---
 
-### **📊 GitHub Stats**
-![MetaingCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&layout=compact&theme=tokyonight)
-
+## 📊 GitHub Stats
+<p align="center">
+  <!-- 总览 Stats -->
+  ![MetaingCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+  <br/>
+  <!-- 语言统计 -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&layout=compact&theme=tokyonight)
+  <br/>
+  <!-- 总 Star 数徽章 -->
+  [![GitHub Stars](https://img.shields.io/github/stars/MetaingCoder?style=social)](https://github.com/MetaingCoder?tab=stars)
+</p>
 ---
 
 ### **🚀 Featured Projects**
