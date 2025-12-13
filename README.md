@@ -9,7 +9,7 @@ I enjoy the entire process from concept design to product implementation, love i
 
 ---
 
-# **GitHub Activity**
+## **GitHub Activity**
 
 <!-- 贪吃蛇贡献图 -->
 <picture>
@@ -20,7 +20,7 @@ I enjoy the entire process from concept design to product implementation, love i
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -40,7 +40,7 @@ I enjoy the entire process from concept design to product implementation, love i
 
 ---
 
-# **📫 Contact / Links**
+## **📫 Contact / Links**
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nevryel)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:becompiles@gmail.com)
@@ -51,7 +51,7 @@ I enjoy the entire process from concept design to product implementation, love i
 
 ---
 
-# **📊 GitHub Stats**
+## **📊 GitHub Stats**
 
 ![MetaingCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaingCoder&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaingCoder&layout=compact&theme=tokyonight)
